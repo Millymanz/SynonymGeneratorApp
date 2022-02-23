@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynonymWebApp", "SynonymWebApp\SynonymWebApp.csproj", "{4C98F56A-C666-45E0-A5A9-1358BB17C2B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynonymWebService", "App\SynonymWebService.csproj", "{2748AD36-DF01-4E8D-9B04-09874457C77B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C98F56A-C666-45E0-A5A9-1358BB17C2B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C98F56A-C666-45E0-A5A9-1358BB17C2B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C98F56A-C666-45E0-A5A9-1358BB17C2B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C98F56A-C666-45E0-A5A9-1358BB17C2B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2748AD36-DF01-4E8D-9B04-09874457C77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2748AD36-DF01-4E8D-9B04-09874457C77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2748AD36-DF01-4E8D-9B04-09874457C77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2748AD36-DF01-4E8D-9B04-09874457C77B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D22643D-5B5E-48B5-8570-A13C887CEB01}
+	EndGlobalSection
+EndGlobal

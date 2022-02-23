@@ -1,0 +1,315 @@
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\obj\Debug\SynonymWebService.csproj.CoreCompileInputs.cache
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\SynonymWebService.dll.config
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\SynonymWebService.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\SynonymWebService.pdb
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\csc.exe
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\csc.exe.config
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\csc.rsp
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\csi.exe
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\csi.rsp
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\System.AppContext.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\System.Collections.Immutable.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\System.IO.FileSystem.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\System.Reflection.Metadata.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\vbc.exe
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\vbc.exe.config
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\vbc.rsp
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\VBCSCompiler.exe
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\roslyn\VBCSCompiler.exe.config
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\Antlr3.Runtime.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\ejml-0.23.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\HtmlAgilityPack.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.AWT.WinForms.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.Beans.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.Charsets.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.Cldrdata.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.Corba.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.Core.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.Jdbc.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.Localedata.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.Management.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.Media.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.Misc.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.Naming.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.Nashorn.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.Remoting.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.Security.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.SwingAWT.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.Text.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.Tools.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.Util.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.XML.API.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.XML.Bind.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.XML.Crypto.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.XML.Parse.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.XML.Transform.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.XML.WebServices.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.OpenJDK.XML.XPath.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.Runtime.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\IKVM.Runtime.JNI.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\javax.json.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\joda-time.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\jollyday.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\Microsoft.Web.Infrastructure.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\Newtonsoft.Json.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\protobuf.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\slf4j-api.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\slf4j-simple.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\stanford-corenlp-3.7.0.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\System.Net.Http.Formatting.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\System.Web.Helpers.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\System.Web.Http.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\System.Web.Http.WebHost.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\System.Web.Mvc.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\System.Web.Optimization.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\System.Web.Razor.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\System.Web.WebPages.Deployment.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\System.Web.WebPages.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\System.Web.WebPages.Razor.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\WebGrease.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\xom.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\HtmlAgilityPack.pdb
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\HtmlAgilityPack.xml
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\Newtonsoft.Json.xml
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\System.Net.Http.Formatting.xml
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\System.Web.Helpers.xml
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\System.Web.Http.xml
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\System.Web.Http.WebHost.xml
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\System.Web.Mvc.xml
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\System.Web.Optimization.xml
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\System.Web.Razor.xml
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\System.Web.WebPages.xml
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\System.Web.WebPages.Deployment.xml
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\System.Web.WebPages.Razor.xml
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\Antlr3.Runtime.pdb
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\obj\Debug\SynonymWebService.csproj.CopyComplete
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\obj\Debug\SynonymWebService.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\obj\Debug\SynonymWebService.pdb
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\bin\ServicePointManagerExtensions.dll
+H:\NonDeployable\Current\DataOrganizer - Copy\SynonymWebService\obj\Debug\SynonymWebService.csprojAssemblyReference.cache
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\SynonymWebService.dll.config
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\SynonymWebService.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\SynonymWebService.pdb
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\csc.exe
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\csc.exe.config
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\csc.rsp
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\csi.exe
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\csi.rsp
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\System.AppContext.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\System.Collections.Immutable.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\System.IO.FileSystem.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\System.Reflection.Metadata.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\vbc.exe
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\vbc.exe.config
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\vbc.rsp
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\VBCSCompiler.exe
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\roslyn\VBCSCompiler.exe.config
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\Antlr3.Runtime.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\ejml-0.23.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\HtmlAgilityPack.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.AWT.WinForms.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.Beans.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.Charsets.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.Cldrdata.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.Corba.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.Core.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.Jdbc.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.Localedata.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.Management.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.Media.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.Misc.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.Naming.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.Nashorn.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.Remoting.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.Security.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.SwingAWT.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.Text.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.Tools.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.Util.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.XML.API.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.XML.Bind.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.XML.Crypto.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.XML.Parse.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.XML.Transform.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.XML.WebServices.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.OpenJDK.XML.XPath.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.Runtime.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\IKVM.Runtime.JNI.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\javax.json.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\joda-time.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\jollyday.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\log4net.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\Microsoft.Web.Infrastructure.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\Newtonsoft.Json.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\protobuf.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\ServicePointManagerExtensions.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\slf4j-api.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\slf4j-simple.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\stanford-corenlp-3.7.0.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\System.Net.Http.Formatting.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\System.Web.Helpers.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\System.Web.Http.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\System.Web.Http.WebHost.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\System.Web.Mvc.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\System.Web.Optimization.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\System.Web.Razor.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\System.Web.WebPages.Deployment.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\System.Web.WebPages.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\System.Web.WebPages.Razor.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\WebGrease.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\xom.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\HtmlAgilityPack.pdb
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\HtmlAgilityPack.xml
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\log4net.xml
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\Newtonsoft.Json.xml
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\System.Net.Http.Formatting.xml
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\System.Web.Helpers.xml
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\System.Web.Http.xml
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\System.Web.Http.WebHost.xml
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\System.Web.Mvc.xml
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\System.Web.Optimization.xml
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\System.Web.Razor.xml
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\System.Web.WebPages.xml
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\System.Web.WebPages.Deployment.xml
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\System.Web.WebPages.Razor.xml
+H:\NonDeployable\Current\Metisx\SynonymWebService\bin\Antlr3.Runtime.pdb
+H:\NonDeployable\Current\Metisx\SynonymWebService\obj\Debug\SynonymWebService.csprojAssemblyReference.cache
+H:\NonDeployable\Current\Metisx\SynonymWebService\obj\Debug\SynonymWebService.csproj.CoreCompileInputs.cache
+H:\NonDeployable\Current\Metisx\SynonymWebService\obj\Debug\SynonymWebService.csproj.CopyComplete
+H:\NonDeployable\Current\Metisx\SynonymWebService\obj\Debug\SynonymWebService.dll
+H:\NonDeployable\Current\Metisx\SynonymWebService\obj\Debug\SynonymWebService.pdb
+H:\NonDeployable\Current\SynonymWebService\obj\Debug\SynonymWebService.dll
+H:\NonDeployable\Current\SynonymWebService\obj\Debug\SynonymWebService.pdb
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\SynonymWebService.dll.config
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\SynonymWebService.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\SynonymWebService.pdb
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\csc.exe
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\csc.exe.config
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\csc.rsp
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\csi.exe
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\csi.rsp
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\System.AppContext.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\System.Collections.Immutable.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\System.IO.FileSystem.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\System.Reflection.Metadata.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\vbc.exe
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\vbc.exe.config
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\vbc.rsp
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\VBCSCompiler.exe
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\roslyn\VBCSCompiler.exe.config
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\Antlr3.Runtime.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\ejml-0.23.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\HtmlAgilityPack.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.AWT.WinForms.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.Beans.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.Charsets.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.Cldrdata.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.Corba.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.Core.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.Jdbc.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.Localedata.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.Management.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.Media.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.Misc.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.Naming.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.Nashorn.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.Remoting.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.Security.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.SwingAWT.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.Text.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.Tools.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.Util.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.XML.API.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.XML.Bind.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.XML.Crypto.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.XML.Parse.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.XML.Transform.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.XML.WebServices.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.OpenJDK.XML.XPath.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.Runtime.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\IKVM.Runtime.JNI.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\javax.json.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\joda-time.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\jollyday.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\log4net.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\Microsoft.Web.Infrastructure.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\Newtonsoft.Json.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\protobuf.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\ServicePointManagerExtensions.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\slf4j-api.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\slf4j-simple.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\stanford-corenlp-3.7.0.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\System.Net.Http.Formatting.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\System.Web.Helpers.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\System.Web.Http.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\System.Web.Http.WebHost.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\System.Web.Mvc.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\System.Web.Optimization.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\System.Web.Razor.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\System.Web.WebPages.Deployment.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\System.Web.WebPages.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\System.Web.WebPages.Razor.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\WebGrease.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\xom.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\HtmlAgilityPack.pdb
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\HtmlAgilityPack.xml
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\log4net.xml
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\Newtonsoft.Json.xml
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\System.Net.Http.Formatting.xml
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\System.Web.Helpers.xml
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\System.Web.Http.xml
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\System.Web.Http.WebHost.xml
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\System.Web.Mvc.xml
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\System.Web.Optimization.xml
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\System.Web.Razor.xml
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\System.Web.WebPages.xml
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\System.Web.WebPages.Deployment.xml
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\System.Web.WebPages.Razor.xml
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\bin\Antlr3.Runtime.pdb
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\obj\Debug\SynonymWebService.csprojAssemblyReference.cache
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\obj\Debug\SynonymWebService.csproj.CoreCompileInputs.cache
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\obj\Debug\SynonymWebService.csproj.CopyComplete
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\obj\Debug\SynonymWebService.dll
+H:\NonDeployable\Current\SynonymServiceSolution\SynonymWebApp\App\obj\Debug\SynonymWebService.pdb
